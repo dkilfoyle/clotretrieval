@@ -1,0 +1,11 @@
+name: clotretrieval
+title: clotretrieval
+account: dkilfoyle
+server: shinyapps.io
+appId: 175169
+bundleId: 802894
+url: https://dkilfoyle.shinyapps.io/clotretrieval/
+when: 1493119815.14569
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/pathway.PNG|www/prehospital.PNG
